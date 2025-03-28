@@ -1,2 +1,2 @@
-# Collaborative-Text-Editor
-A collaborative text editor is a software tool that allows multiple users to work together in real-time on editing a document or piece of text. These editors often provide features such as simultaneous editing, real-time updates, and commenting to facilitate collaboration among users who may be in different locations.
+# Invoice Generator
+An **Invoice Generator** is a software tool that automates the creation of invoices and payment receipts. It allows users to input transaction details, generate itemized bills, calculate totals (including taxes and discounts), and export invoices in formats like PDF. This system helps streamline billing processes, reduce manual errors, and improve financial record-keeping.
